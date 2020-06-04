@@ -5,8 +5,8 @@
         <name>CustomObject</name>
     </types>
     <types>
-        <members>Standard Test User</members>
-        <name>Profile</name>
+        <members>Test_Set</members>
+        <name>PermissionSet</name>
     </types>
     <version>48.0</version>
 </Package>
