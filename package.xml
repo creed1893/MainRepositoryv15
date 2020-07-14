@@ -4,14 +4,11 @@
         <members>Account.ParentId</members>
         <members>Case.Picklist__c</members>
         <members>Case.Product__c</members>
-        <members>Goal.OrigGoalId__c</members>
         <members>Lead.Partner_Name__c</members>
         <members>Opportunity.CurrentGenerators__c</members>
-        <members>Opportunity.OrderNumber__c</members>
         <name>CustomField</name>
     </types>
     <types>
-        <members>Account</members>
         <members>Asset</members>
         <members>Campaign</members>
         <name>CustomObject</name>
