@@ -78,6 +78,11 @@
                 <fieldItem>Record.OwnerId</fieldItem>
             </fieldInstance>
         </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldItem>Record.Test_Text__c</fieldItem>
+            </fieldInstance>
+        </itemInstances>
         <name>Facet-f5a4b2c0-b31e-4320-9d51-45eea548ad3e</name>
         <type>Facet</type>
     </flexiPageRegions>
