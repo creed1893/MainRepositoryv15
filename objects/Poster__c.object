@@ -163,6 +163,22 @@
         <type>Date</type>
     </fields>
     <label>Poster</label>
+    <listViews>
+        <fullName>All</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
+    <listViews>
+        <fullName>Poster_Test</fullName>
+        <columns>NAME</columns>
+        <filterScope>Mine</filterScope>
+        <filters>
+            <field>CREATEDBY_USER</field>
+            <operation>equals</operation>
+            <value>Corey</value>
+        </filters>
+        <label>Poster Test</label>
+    </listViews>
     <nameField>
         <label>Poster Name</label>
         <trackHistory>false</trackHistory>
