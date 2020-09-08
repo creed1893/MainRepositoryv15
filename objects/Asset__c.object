@@ -177,6 +177,11 @@
                     <default>false</default>
                     <label>Three</label>
                 </value>
+                <value>
+                    <fullName>MultiManager Lifetime Portfolio</fullName>
+                    <default>false</default>
+                    <label>MultiManager Lifetime Portfolio</label>
+                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>
