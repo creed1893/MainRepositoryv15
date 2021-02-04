@@ -368,6 +368,12 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>Quality_Gate_Test__c</fullName>
+        <externalId>false</externalId>
+        <label>Quality Gate Test</label>
+        <type>AutoNumber</type>
+    </fields>
+    <fields>
         <fullName>Rating</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Picklist</type>
