@@ -10,6 +10,16 @@
         <object>Asset__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
+    <recordTypeVisibilities>
+        <default>false</default>
+        <recordType>Account.Non_Default_Test_Record</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>Account.Test_1</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
