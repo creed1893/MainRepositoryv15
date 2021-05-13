@@ -4,10 +4,5 @@
         <members>Standard Test User</members>
         <name>Profile</name>
     </types>
-    <types>
-        <members>Account.Non_Default_Test_Record</members>
-        <members>Account.Test_1</members>
-        <name>RecordType</name>
-    </types>
     <version>51.0</version>
 </Package>
